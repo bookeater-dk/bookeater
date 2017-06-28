@@ -1,0 +1,66 @@
+.forum-table-superheader
+{
+    background-color: #009ce2 !important;
+    color:white;
+}
+.forum-table-superheader .forum-table-name a
+{
+    color:white;
+}
+#forum-statistics , .forum-list-icon-legend
+{
+    padding:5px;
+}
+#comment-form
+{
+    padding:10px;
+    margin-bottom:5px;
+}
+.pane-forum-list .pane-content , #forum-statistics , .forum-list-icon-legend, #comment-form
+{
+    background-color:white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.forum-header tr th
+{
+    padding:10px;
+}
+.forum-post , .forum-topic-header
+{
+    background-color:white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding:10px;
+}
+.text-muted
+{
+ color: white;   
+}
+#forum-comments
+{
+    margin-left: 15px;
+}
+.forum-row td
+{
+    padding:5px;
+}
+#forum
+{
+    background-color:white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding:10px;
+    margin-bottom:10px;
+}
+.author-signature
+{
+    border-top: 1px solid grey;
+    padding-top: 5px;
+}
+ .user-picture
+{
+    padding:10px;
+}
+.author-pane .username
+{
+    font-size: 21px;
+    padding-left: 10px;
+}
