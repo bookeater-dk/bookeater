@@ -16,7 +16,7 @@
     padding:10px;
     margin-bottom:5px;
 }
-.pane-forum-list .pane-content , #forum-statistics , .forum-list-icon-legend, #comment-form
+.pane-forum-list .pane-content , #forum-statistics , .forum-list-icon-legend, #comment-form 
 {
     background-color:white;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -25,11 +25,13 @@
 {
     padding:10px;
 }
-.forum-post , .forum-topic-header
+.forum-post , .forum-topic-header , .view-advanced-forum-active-topics ,
+.view-advanced-forum-unanswered-topics , .view-advanced-forum-new-topics
 {
     background-color:white;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     padding:10px;
+    margin-bottom: 5px;
 }
 .text-muted
 {
